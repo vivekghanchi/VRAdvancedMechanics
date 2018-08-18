@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 5885d6b164d3ddc4cbe7a41f93ba7e40
+timeCreated: 1491660388
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bench
+    100002: Corners
+    100004: Ground
+    100006: //RootNode
+    100008: Parent
+    100010: Planks
+    100012: PlatformBottom
+    100014: Rails
+    100016: Sign
+    100018: TowerE
+    100020: TowerN
+    100022: TowerS
+    100024: TowerW
+    100026: Walls
+    400000: Bench
+    400002: Corners
+    400004: Ground
+    400006: //RootNode
+    400008: Parent
+    400010: Planks
+    400012: PlatformBottom
+    400014: Rails
+    400016: Sign
+    400018: TowerE
+    400020: TowerN
+    400022: TowerS
+    400024: TowerW
+    400026: Walls
+    2300000: Bench
+    2300002: Corners
+    2300004: Ground
+    2300006: Parent
+    2300008: Planks
+    2300010: PlatformBottom
+    2300012: Rails
+    2300014: Sign
+    2300016: TowerE
+    2300018: TowerN
+    2300020: TowerS
+    2300022: TowerW
+    2300024: Walls
+    3300000: Bench
+    3300002: Corners
+    3300004: Ground
+    3300006: Parent
+    3300008: Planks
+    3300010: PlatformBottom
+    3300012: Rails
+    3300014: Sign
+    3300016: TowerE
+    3300018: TowerN
+    3300020: TowerS
+    3300022: TowerW
+    3300024: Walls
+    4300000: TowerE
+    4300002: TowerN
+    4300004: TowerW
+    4300006: TowerS
+    4300008: Walls
+    4300010: Bench
+    4300012: Planks
+    4300014: Ground
+    4300016: Parent
+    4300018: PlatformBottom
+    4300020: Corners
+    4300022: Sign
+    4300024: Rails
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
