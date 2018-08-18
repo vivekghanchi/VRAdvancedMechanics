@@ -1,2 +1,2 @@
 # VRAdvancedMechanics
-This is a Virtual Reality includes advance VR Mechanics.
+This is a Virtual Reality application for HTC Vive which uses advanced VR Mechanics.
